@@ -1,10 +1,11 @@
 {
-"title": "ahking in AR.",
-"author": "ahking",
-"average rating": "5",
-"list price": "17",
-"your price": "17",
-"targetid": "60322d6b0b2c4392a5ae156b7a829620",
-"thumburl": "https://developer.vuforia.com/samples/cloudreco/thumbs/01_thumbnail.png",
-"bookurl": "https://developer.vuforia.com/samples/cloudreco/book1.html"
+title: "ahking17 of Computer Vision",
+author: "ahking17",
+average rating: "4",
+# of ratings: "30",
+list price: "39.99",
+your price: "17",
+targetid: "95043ce3562046da82e7e0798b6e9660",
+thumburl: "https://developer.vuforia.com/samples/cloudreco/thumbs/02_thumbnail.png",
+bookurl: "https://developer.vuforia.com/samples/cloudreco/book2.html"
 }
